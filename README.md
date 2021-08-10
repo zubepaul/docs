@@ -7,7 +7,7 @@
 
 The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCRF) serves as an open, agnostic bridge between academia and industry. Supported by an international community dedicated to advancing actionable blockchain research, our mission is to surface challenging problems in the space and present them to an active community of academics, researchers, and developers. It is the ecosystem’s source for problems to solve, and to find the people, projects, and tools to solve them. 
 
-I think SCRF's mission is really neat!!!
+I think SCRF's mission is really neat!
 
 ## Contact Us
 
